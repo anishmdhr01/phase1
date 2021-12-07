@@ -30,4 +30,5 @@ class HamroMail extends Mailable
     {
         return $this->view('home');
     }
+    // hamro mail hai githubko lagi
 }
